@@ -64,7 +64,7 @@
       label: "Host"
       required: false
       default: "Host Config?"
-      type: "string"
+      type: "host"
     - variable: "TEST_UNKNOWN"
       label: "Unknown"
       required: false
